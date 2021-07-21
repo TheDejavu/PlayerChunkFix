@@ -1,0 +1,4 @@
+name: PlayerChunkFix
+version: 1.0-SNAPSHOT
+main: dev.orhidea.playerchunkfix.PlayerChunkFix
+api-version: 1.17

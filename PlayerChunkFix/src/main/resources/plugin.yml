@@ -1,0 +1,4 @@
+name: PlayerChunkFix
+version: ${project.version}
+main: dev.orhidea.playerchunkfix.PlayerChunkFix
+api-version: 1.17
